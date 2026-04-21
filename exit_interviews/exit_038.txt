@@ -1,0 +1,26 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0038
+Date: March 2025
+Function: Data
+Role: Data Analyst, Senior
+Location: SF
+Tenure: 2 years 6 months
+Departure type: Involuntary (visa)
+
+Notes:
+
+My visa situation didn't work out. Meridian sponsored my H-1B in the first lottery I was eligible for. I wasn't selected. They sponsored me again this year. I wasn't selected again. My OPT runs out next month and I need to leave the country.
+
+I want to start by thanking the immigration team at Meridian. They were exceptional. They took my case seriously from day one, provided legal counsel throughout, and kept me informed about every step. Whatever you're paying the external immigration counsel, keep paying them.
+
+This isn't a voluntary departure but I'm treating this interview seriously because my feedback is genuine and I've had a good experience here minus the visa issue.
+
+Things I'd pass along:
+
+- The H-1B lottery is what it is. Meridian can't control it. But the uncertainty is really hard on employees. A clearer public policy about what happens when lottery selection fails — I know Meridian will sponsor alternative visas in some cases — would help people plan.
+- I was offered a role at Meridian's Dublin office as an option. I appreciated it. It didn't work for my life but the fact that the option was extended mattered.
+- The work has been great. My team, my manager, my projects — all strong. I'll miss working on the recommendation-system problem.
+
+I'm returning to my home country and I'll likely join a subsidiary of a US-based tech company there. Meridian doesn't have operations in my country — otherwise I'd ask.
+
+Stay in touch. If you have openings in EMEA at the Senior DS level in a year or two, I'd love to hear about them.

@@ -1,0 +1,25 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0032
+Date: February 2025
+Function: Engineering
+Role: Software Engineer, Staff
+Location: SF
+Tenure: 3 years 2 months
+Departure type: Voluntary
+
+Notes:
+
+Third infrastructure engineer leaving from my team in under a year. I don't want to belabor what others have probably told you: the on-call is unsustainable, the platform has grown faster than the team, and management has not been able to get staffing relief.
+
+What I want to add is the quieter consequence, which is that I haven't done meaningful new engineering work in over a year. Every cycle my "roadmap" gets eaten by reactive incident work, post-mortems, mitigation PRs, and escalations. I was hired to architect the next generation of our data plane. I haven't touched it. Instead I've been duct-taping the current generation.
+
+This degrades my skills over time. A Staff engineer who spends a year in firefighting mode loses the parts of the job that make the next Staff role possible. I need to get back into design work while I'm still current.
+
+I'm joining a company as a Staff engineer on a platform team that just finished a similar hyper-growth phase and is now in architecture mode. I'll spend the next six months writing docs and prototypes. That's what I need.
+
+Some additional things to flag:
+- The infra team has had no backfill for the two engineers who left before me. The remaining two people will be in 1-week-on, 1-week-off rotation, which is not legal in some jurisdictions and not humane anywhere.
+- Our best SRE candidates during the last round went to competitors because we couldn't match comp.
+- I'd suggest escalating this above the VP level. Our team's attrition is a leading indicator.
+
+I liked working here when we had time to do it well.

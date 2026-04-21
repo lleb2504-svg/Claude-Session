@@ -1,0 +1,22 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0036
+Date: March 2025
+Function: Engineering
+Role: Software Engineer, Senior
+Location: Remote-US
+Tenure: 3 years 5 months
+Departure type: Voluntary
+
+Notes:
+
+I found out six months ago that I am being paid less than male peers at my level and I have been trying to fix it from inside. It didn't work. So I'm leaving.
+
+Here's how I found out. We had a team offsite and two of my teammates and I were trading war stories about offer negotiation. We compared our starting bases. Mine was lower. Their most recent promotions were higher increases than mine. Same level. Similar tenure. Similar performance ratings — I am a 4 and they are a 4 and a 3.
+
+I went to my manager and he told me the usual: "comp is based on many factors." I pushed. I went to my skip. I got a pay study offer, which I accepted. The study came back saying I was "within band" for my level but at the lower end of that band. My male peers are at the upper end.
+
+Within band is not the same as paid equitably. The band is 30% wide. Putting women at the bottom of the band and men at the top of the band while calling that "equitable" is a policy choice.
+
+I have colleagues — other women at my level in engineering — who have had the same conversation with the same result. We talk. It is not everyone's manager individually making a biased call. It is the aggregate of the comp system. That's worth examining.
+
+I'm going somewhere that publishes their pay ranges and commits to being at the 75th percentile of them. I will miss some of my colleagues. The pay thing is why I'm leaving. Please look at your Senior SWE comp by gender. The numbers will tell the story.

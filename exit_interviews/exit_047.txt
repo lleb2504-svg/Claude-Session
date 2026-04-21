@@ -1,0 +1,22 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0047
+Date: May 2025
+Function: Data
+Role: Data Scientist
+Location: Remote-US
+Tenure: 3 years 0 months
+Departure type: Voluntary
+
+Notes:
+
+I'm going to be diplomatic but direct. My team had clear favorites and I was not one of them. I'm not sure if my manager was even aware of it, but the downstream effects were real.
+
+The two engineers he came up with — literally worked with at his previous company — got the modeling projects. I got the data-quality and instrumentation work. That work is important and I did it well. But it is not how you get promoted as a data scientist at this company. When calibration came around, the modeling work is what the exec team remembered.
+
+I want to be careful here. I am not saying my manager was malicious. I am saying he hired people from his old network, trusted them first, and the rest of us were on the outside of that trust. I saw it in 1:1 frequency, in who got the roadmap discussions, in who got picked for cross-functional collaboration.
+
+When I raised this in my year-two review as "I'd like more visibility on modeling work," his response was "bring me a proposal." I brought two. Nothing happened. The third time I stopped.
+
+I'm leaving for a different company where the DS team is smaller and less stratified. Comp is comparable. The deciding factor was that I interviewed with my would-be manager three times and she asked me in every conversation what I wanted to work on. My current manager has never asked me that in three years.
+
+I'd also note that when I told my manager I was leaving, his first question was about the handoff, not about why I was leaving. Draw your own conclusions.

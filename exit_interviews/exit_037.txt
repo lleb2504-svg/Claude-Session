@@ -1,0 +1,25 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0037
+Date: March 2025
+Function: Engineering
+Role: Software Engineer, Senior
+Location: Remote-US (Pacific timezone)
+Tenure: 3 years 1 month
+Departure type: Voluntary
+
+Notes:
+
+My team is based primarily in New York and Dublin. I'm in the Pacific timezone. The expectation to overlap with both ends of the range has meant my workday routinely starts at 7am and ends at 7pm. Three years of that is enough.
+
+I've asked twice to join a team with a more Pacific-aligned footprint. Both times I was told my current team needs my expertise and a transfer wouldn't work right now. The second time was six months ago.
+
+The remote work benefit was a big reason I took this job. In practice it's remote in name — I can work from home, but the home-working day is shaped by the hours of a team I don't live near. That's not what I signed up for.
+
+I'm joining a company with a distributed engineering org explicitly designed around local-timezone teams. I'll work a 9-to-5 Pacific schedule. My salary is comparable. My calendar will finally be sane.
+
+Broader feedback:
+- Remote as a benefit only works if team structures are designed for it. Meridian has remote employees embedded in headquartered teams, which reproduces the constraints of HQ for the remote person.
+- If you want to continue hiring remotely, create distributed-first teams with rotating sync hours. A couple of teams already do this informally — promote the pattern.
+- Timezone-mismatch is a quiet driver of attrition that won't show up in exit interviews unless you ask directly.
+
+I'll miss my teammates. I hope my replacement is given a more reasonable schedule than I had.

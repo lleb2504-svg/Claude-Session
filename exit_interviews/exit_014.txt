@@ -1,0 +1,22 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0014
+Date: November 2024
+Function: Engineering
+Role: Software Engineer, Staff
+Location: NYC
+Tenure: 5 years 3 months
+Departure type: Voluntary
+
+Notes:
+
+Five years. I was hired as an SWE II and made Staff. For most of that I loved this company. I want to say that first because what I'm going to say next might land as bitter and it isn't.
+
+My last manager — second one I had in platform — did not know what I did. I asked him midway through last year to come to a technical deep-dive I was running for the org and he said he had a conflict. I rescheduled for him. He said he had another conflict. We never did it. He wrote my calibration packet without ever watching me work.
+
+I don't need a cheerleader. I needed a manager who could represent the work. At Staff level you are not getting promoted on shipped tickets, you are getting promoted on narrative. The narrative has to be written by someone. If that someone is not your manager, it doesn't happen.
+
+I got an offer from a company where the CTO used to be my peer at Meridian. He wrote the offer personally. It's a material comp bump but I'd honestly go there for the same money. I know he'll put me in front of hard problems. That's what I want right now.
+
+One piece of feedback that I hope reaches someone: the Staff-to-Principal track at Meridian is a black box. Nobody I asked could articulate what it takes. When that's true, political skill trumps craft. Our most political Staff engineers got promoted last year. Our most craft-y ones did not. I don't think this is accidental.
+
+I wish you all well. I will be cheering for Meridian from the outside.

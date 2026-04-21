@@ -1,0 +1,24 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0002
+Date: August 2024
+Function: Data
+Role: Data Scientist (joined via Finch acquisition)
+Location: Berlin
+Tenure: 3 years 0 months
+Departure type: Voluntary
+
+Notes:
+
+I want to be specific about what I was promised in 2022 and how it played out, because I think it's a pattern and not just my experience.
+
+When Finch was acquired, I was a DS lead on our team. In the integration conversations I was told I'd be mapped to "Senior DS" at Meridian and that within 12 months I'd be considered for "Staff DS," which was the closest equivalent to my Finch role. This was in writing — I have the email.
+
+What actually happened: I was mapped to Senior DS at the deal close. Good. But the 12-month Staff review never happened. My manager at the time (who has since left) told me the Staff process was paused pending a re-org. The re-org resolved. No Staff review. I asked my new manager. He said he wasn't aware of the 12-month commitment and that Staff DS promotions are typically made at 2+ years in role. Two years came and went. Nothing.
+
+In the meantime several Meridian-hire DSs at my level have been promoted to Staff. I am not making this up — I can show you the org chart change log.
+
+I'm going to a competitor where I was hired in at the level I should have been at Meridian two years ago. Base is comparable. Equity is worse. Level and scope are what I need.
+
+Broader note: I am one of about a dozen former-Finch folks in EMEA who are leaving this year. That's not random. The former-Finch cohort was systemically under-promoted. I would examine that seriously. You have a retention crisis in the acquired talent that is being hidden by the fact that when they leave, they look like normal attrition.
+
+Good luck. I wish I had better news.

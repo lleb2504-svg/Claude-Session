@@ -1,0 +1,20 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0009
+Date: October 2024
+Function: Engineering
+Role: Software Engineer, Senior
+Location: SF
+Tenure: 3 years 4 months
+Departure type: Voluntary
+
+Notes:
+
+I want to be upfront that my manager is the reason I'm leaving. I came into Meridian excited — the interview loop was great, the codebase was interesting, I had a good onboarding buddy. For the first year it was genuinely fun. Then there was a re-org and I got moved under a new manager, and everything changed.
+
+The issues were subtle at first. He would schedule 1:1s and then cancel five minutes before. When I brought up promotion in my year-two review, he said "let's revisit next cycle" and then next cycle it was the same answer. I started noticing that the people he liked got on the big projects and the people he didn't got maintenance work. I was in the second camp.
+
+What pushed me over the edge was our last calibration. I had shipped the migration work he'd asked for on time. I had mentored two of our juniors. My peer reviews were strong. I got a "Consistently Meets" and a 3.5% salary bump. When I pushed back he said my work "wasn't visible enough to senior leadership." That was the moment I decided to start looking.
+
+I want to be clear: this isn't a Meridian problem writ large. I loved my first manager, I loved my skip-level, I still love the people I worked with. It's specifically this manager. I've talked to two other engineers on his team and they are having similar experiences. You have a pattern here that someone should look at.
+
+I'd come back to Meridian in a different org. Not this one.

@@ -1,0 +1,23 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0025
+Date: January 2025
+Function: Data
+Role: Machine Learning Engineer
+Location: Remote-US
+Tenure: 2 years 0 months
+Departure type: Voluntary
+
+Notes:
+
+External offer. 30% more base, meaningfully better equity, and a role where I'm one of five MLEs instead of one of forty. I was going to stay at Meridian for the full three-year cliff but the offer came in and the math was hard to ignore.
+
+Context on the ML org: Meridian has a lot of MLEs and we're spread across three different teams. The intra-team priorities don't line up. I spent half my time on a recommendation-system project that got de-prioritized after six months, then moved to a content-moderation effort that got handed off to a contractor, and finally got assigned to search-ranking which I actually liked. By the time I was doing work I was proud of I had already been here a year and a half.
+
+MLE comp has gotten really competitive in the last 18 months. I think Meridian hasn't kept up. Our new-hire offers are 20–25% above what I'm making as a two-year tenured person. That's the root cause of the external-offer math for me.
+
+Feedback that might be useful:
+- Retaining MLEs requires acknowledging the external market more explicitly. Annual increases tied to internal equity are fine in normal times but not when GenAI has ripped up comp for our role.
+- The work is interesting. I'm not leaving because of work.
+- I wish there were a way to rotate between teams without needing to re-interview. I'd have stayed longer if I could have explored before committing.
+
+Happy to help with knowledge transfer. I have two weeks to hand off my current project.

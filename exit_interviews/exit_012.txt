@@ -1,0 +1,22 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0012
+Date: October 2024
+Function: Engineering
+Role: Software Engineer, Senior
+Location: Remote-US
+Tenure: 2 years 3 months
+Departure type: Voluntary
+
+Notes:
+
+I'm burned out. Specifically, I'm on the Infrastructure team and our on-call rotation is not sustainable. Four engineers, 1 week primary every 4 weeks, 1 week secondary every 4 weeks, which means every other week you're tethered to a phone with 24/7 response obligations. We've lost two engineers to this rotation in the last 18 months. I'm the third.
+
+The page volume has gotten worse over time. In 2023 my primary weeks averaged maybe 3-5 pages. In 2024 it's been 15-20 pages, some nights getting paged three times. We've been asking for staffing relief for a year. The usual answer is "we're hiring" but the roles either don't get approved or take a very long time to fill.
+
+When I raised this with my manager in an emotional 1:1 in August, his response was "I hear you and I'm doing what I can." I believe him. I also know he has been telling leadership we are at critical staffing for 18 months and nothing has changed.
+
+My wife and I had a real conversation last month. She said "if you get paged one more Sunday at 3am I'm going to answer the phone." She's right. I'm prioritizing my marriage over this rotation.
+
+I'm joining a company where on-call is 1 week every 8 weeks with a proper incident commander rotation layered on top. It's not an ML role but I'll take boring infrastructure at a sustainable pace over exciting infrastructure on my current schedule.
+
+The infra team at Meridian is great. The work is interesting. The staffing ratio is not sustainable and it will keep costing you senior engineers until it changes.

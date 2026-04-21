@@ -1,0 +1,26 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0011
+Date: October 2024
+Function: Engineering
+Role: Software Engineer, Staff
+Location: Bangalore
+Tenure: 4 years 0 months
+Departure type: Voluntary
+
+Notes:
+
+I wanted to move into a tech-lead / managerial role. The path for that at Meridian India is not clear. We have almost no engineering managers based in Bangalore. All our EMs are in the US or Dublin. That's been a structural issue for years.
+
+For two years I've been asking "how do I move from Staff IC to EM?" and the answer has been variations on "we're thinking about it." I offered to pilot — be the first Bangalore-based EM, build it out, hire the structure around me. I was told that wasn't the plan.
+
+Meanwhile the teams here keep growing. We have 60+ engineers in Bangalore reporting to managers in other timezones. That doesn't scale. It hasn't scaled. The engineers here want local leadership and we don't have it.
+
+I'm joining a company that has a proper engineering leadership structure in India. I'll be running a 12-person team on day one. The comp is fine — base is slightly lower than Meridian but the role is what I want.
+
+Feedback:
+
+- If Bangalore is going to be a real engineering site, it needs real engineering leadership. "Leadership" meaning managers based here, with budget authority, with a voice in promotion committees. Anything less is a satellite-office arrangement pretending to be a hub.
+- The local market for engineering talent is hot. We are being out-competed on both comp and career path.
+- Staff IC track at Meridian is solid. I'd recommend coming here to be a Staff engineer and not coming here if you want to become an engineering manager.
+
+I want to say thank you to my US-based manager who genuinely tried to help me figure this out. The issue isn't him. The issue is structural.

@@ -1,0 +1,24 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0016
+Date: November 2024
+Function: Engineering
+Role: Software Engineer, Senior
+Location: NYC
+Tenure: 4 years 5 months
+Departure type: Voluntary
+
+Notes:
+
+The ceiling feels low. That's my most honest summary.
+
+I joined Meridian as SWE II and promoted to Senior after 18 months. Great. For the last two and a half years I've been wanting to get to Staff and I cannot see a path there. The team I'm on has one Staff engineer already and he is not going anywhere. The next layer up is his Principal peer, also not going anywhere. For me to get to Staff either someone has to leave, the team has to grow, or I have to move to a different team.
+
+I tried to move to a different team. That took a lot longer than I expected. I was told I was "critical to my current team" and the transfer was ultimately blocked. Twice.
+
+In the meantime I did the Staff-level work. I drove the cross-team initiative on observability. I shipped the customer-facing performance improvements. I have the scope on paper. What I don't have is an open slot.
+
+This is the org-design problem. It's not a manager problem — my manager has been great. It's not a comp problem — my comp is okay. It's not a me problem — I know I'm ready. It's a structural problem in how Meridian has grown.
+
+I'm joining a similar-sized company that's in hyper-growth mode and the Staff slot is waiting for me. I'll miss Meridian. I suspect within a couple of years I'll hear from recruiters here about my old team needing a Senior hire, which will be ironic.
+
+Suggestion: think about how you create Staff-level slots before your senior engineers start looking. Post-fact you can only counter-offer, and that only works sometimes.

@@ -1,0 +1,27 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0031
+Date: February 2025
+Function: Engineering
+Role: Software Engineer II (joined via Finch acquisition)
+Location: Remote-US
+Tenure: 3 years 6 months
+Departure type: Voluntary
+
+Notes:
+
+I joined Meridian through the acquisition of Finch in mid-2022. Almost three years in, I'm leaving because I feel stuck at the same level I was re-leveled into on day one.
+
+When the acquisition closed, I had been a Senior at Finch for two years. In the integration I was mapped to SWE II at Meridian. I was told this was about normalizing across the two companies and that I'd progress quickly if my performance warranted it. My performance has warranted it. I've had Often Exceeds ratings for two cycles. I am on the on-call lead rotation. I mentor junior engineers. I have not been promoted.
+
+My manager's feedback is consistently "stay the course" and "your time is coming." When I look at the peers who joined Meridian directly at my level and tenure, they've been promoted. I'm not making that up — we have the data on the engineering Slack.
+
+I think what's happening is that the bar for the acquired cohort is implicitly higher than for the organic hire cohort. Whether it's conscious or not, there's a "prove you belong here" expectation that direct hires don't have to clear.
+
+I am going to a different SaaS company with a Senior title and a comp package that reflects that title. I should have left a year ago, honestly.
+
+Feedback I'd pass on:
+
+- The acquired cohort is retention-at-risk and people above don't see it because we don't show up as a distinct group in dashboards.
+- The former Finch Slack has 42 current members in it, down from 180+ at the deal close. Run those numbers if you haven't.
+
+I appreciated the people I worked with. I just needed someone to advocate for me and nobody did.

@@ -1,0 +1,22 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0057
+Date: July 2025
+Function: Engineering
+Role: Software Engineer, Senior
+Location: Remote-US
+Tenure: 4 years 0 months
+Departure type: Voluntary
+
+Notes:
+
+I'll keep this short because I've written a long version in email to my skip-level already. The TL;DR is that the manager I had for the last 18 months never once advocated for me and I'm done.
+
+Specifics. I didn't get promoted to Staff despite shipping the auth rewrite and leading the on-call improvement initiative. I asked him what was missing and he told me to "be more visible." I asked what that looked like and he said "write more design docs." I wrote more design docs. The next cycle he said I needed to "expand my scope." I was already on-call lead for the org. When I pointed that out he said "oh right, I forgot."
+
+He forgot. That's the quote.
+
+I was the most tenured engineer on the team. I was mentoring four juniors and two senior hires. I know my impact. When my skip-level asked me during an exec-visibility program what I wanted, I told him I wanted to be promoted. That was in February. In April I got the same "Consistently Meets." I don't know what else to do.
+
+What I loved about Meridian: the platform engineering team as a whole, the on-call culture after the rewrite, genuinely smart colleagues, and a codebase I'm proud of. I would recommend this place to an engineer who gets placed on any team except this one.
+
+If you want to retain senior engineers, the manager layer in platform eng is where you should focus. Ask around. I'm not the only one with this story.

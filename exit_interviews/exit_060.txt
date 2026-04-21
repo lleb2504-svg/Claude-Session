@@ -1,0 +1,28 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0060
+Date: July 2025
+Function: Data
+Role: Data Scientist
+Location: SF
+Tenure: 2 years 2 months
+Departure type: Voluntary
+
+Notes:
+
+Starting a PhD in computational social science in the fall. I applied last year and was admitted to my top choice. This is a long-standing academic interest of mine — I finished a research master's before taking my industry job at Meridian and always intended to go back.
+
+This is not a Meridian-driven departure in any way. My work here has been excellent training. I'd recommend the DS team at Meridian to anyone.
+
+Brief reflections:
+
+- The quality of DS work here is high. I published two blog posts and one internal whitepaper that I will reference in my PhD applications.
+- My manager supported my applications with a thoughtful recommendation letter. I really appreciated that — a lot of managers would have seen the applications as a retention threat.
+- The DS-to-research pipeline is interesting. I'm aware of at least four Meridian DSs who've left for PhDs in the last three years. Maybe there's an alumni network to keep.
+
+Constructive things I'd flag since I'm writing:
+
+- The DS onboarding pathway could be better. When I joined I was on three projects within my first month, which was too many. A focused first-project approach would have ramped me faster.
+- Data infrastructure for DS work is better than it was when I joined. Credit to the ML platform team.
+- The career ladder for DS at Meridian is clearer than for MLE. The MLE ladder is vague, which I think contributes to the higher MLE attrition I've observed.
+
+Thanks for a good two years. I'll be at Meridian's annual data conference as a presenter in a few years if all goes well.

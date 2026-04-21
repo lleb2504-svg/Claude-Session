@@ -1,0 +1,25 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0003
+Date: August 2024
+Function: Design
+Role: Product Designer, Senior
+Location: Remote-US
+Tenure: 2 years 5 months
+Departure type: Voluntary
+
+Notes:
+
+I have been working overtime consistently for the better part of a year and it is finally catching up with me physically. I have had migraines most weeks for three months. I'm 33.
+
+The design team at Meridian has a couple of structural issues that create the overwork. First, each designer owns too many product surfaces. I had three major product areas. Anyone of them was a full-time job. All three together was unreasonable. Second, design gets looped into Product cycles late, which means we do a lot of work at the end under time pressure rather than through the cycle with breathing room. Third, the design ops function that would help us prioritize doesn't exist.
+
+I flagged the workload six months ago. My manager was sympathetic and we had a real conversation. The outcome was supposed to be reducing my surface coverage. That happened for about four weeks. Then a peer left the company, some of her work came to me, and I was back at three surfaces.
+
+I'm moving to a company where designers own one surface at a time. Comp is slightly lower. I'll take the trade.
+
+Feedback:
+- Meridian should set a designer-to-product-surface ratio and defend it. Right now we over-commit by default.
+- The Design org attrition this year has been heavily concentrated in senior ICs. Talk to your design leads about why.
+- Backfilling through internal redistribution of work is a short-term hack. It accelerates the attrition.
+
+Thanks for two good years. I hope the design team figures this out.

@@ -1,0 +1,26 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0046
+Date: April 2025
+Function: Data
+Role: Data Scientist, Senior
+Location: Remote-US
+Tenure: 2 years 4 months
+Departure type: Voluntary
+
+Notes:
+
+Joining a seed-stage startup that a close friend is founding. I'll be employee number five. I'm going to be the DS/analyst/everything for the next year or two.
+
+This is entirely a pull, not a push. Meridian has been great to me. The DS work has been interesting. My manager has been supportive. My comp has been fair. I'm leaving because a friend I trust is building something exciting and I want to be part of it.
+
+Short notes since I have the space:
+
+- The DS team at Meridian has grown from a handful of people to a solid mid-sized org in my time. I've watched that scale happen well. It isn't obvious how to do that and leadership has done it thoughtfully.
+- Data infrastructure investment has paid off. Running queries against the warehouse was painful in year one. It's fast in year two. That kind of plumbing gets noticed.
+- The tools budget is generous compared to other places I've worked. Worth keeping.
+
+One piece of feedback: the DS on-call rotation (for model monitoring and metric anomalies) has crept up in intensity. It's still nothing like SWE on-call but it's become a real time commitment and I don't think anyone has audited the actual hours recently.
+
+I'll be rooting for Meridian from outside. If my startup survives and grows, maybe Meridian becomes a customer. Stranger things.
+
+Thanks to my team.

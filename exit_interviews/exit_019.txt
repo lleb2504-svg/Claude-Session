@@ -1,0 +1,22 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0019
+Date: December 2024
+Function: Operations
+Role: Business Operations Manager
+Location: SF
+Tenure: 2 years 3 months
+Departure type: Voluntary
+
+Notes:
+
+My reason for leaving is a combination of things but the through-line is my manager's decision-making style. He would set a direction, commit the team, reverse course four weeks later, and then get frustrated when we asked why. Over two years this happened enough times that I stopped planning past the next month.
+
+Examples. We were going to centralize the revops reporting stack. Three months of discovery and planning. Then we were going to decentralize it and give GTM ownership. Two months of scoping. Then we were going to partner with a vendor. One RFP later he said actually let's build it in-house, which is where we started. Nothing shipped. I don't think this is unique to our team at Meridian, for what it's worth. I hear similar stories from peers in other orgs.
+
+My manager is smart and works hard. The issue is that he reacts to whatever the VP said to him in their most recent 1:1 and that signal propagates down the org. I don't think he does it on purpose. I do think it makes it impossible to run an effective team.
+
+I'm going to a Chief of Staff role at a smaller company where I'll work directly with the founder. I've been in ops for a while and I want to be closer to strategy.
+
+What would have kept me: a stable 12-month roadmap for the team and an honest conversation about where we fit in the org. Neither happened. I don't think they were going to happen.
+
+I want to thank the team I leave behind. They deserve stability that I couldn't give them.

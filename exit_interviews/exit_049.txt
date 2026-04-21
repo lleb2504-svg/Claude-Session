@@ -1,0 +1,26 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0049
+Date: May 2025
+Function: Engineering
+Role: Software Engineer II
+Location: Austin
+Tenure: 1 year 5 months
+Departure type: Voluntary
+
+Notes:
+
+I've been on the infrastructure team for about a year and I'm already leaving. The on-call rotation is brutal and the way people above me talk about it makes me think it's not going to change.
+
+I joined Meridian out of a grad program because I wanted to do systems work and I was told this team did great work. The work is great when we're not firefighting. We are firefighting constantly.
+
+In my one year I've been on primary 13 times. I've lost count of after-hours pages. Last month I had four nights in a row where I was paged between 1am and 4am. I'm 26 years old and I feel physically worn down.
+
+I talked to my manager in February. He told me to take a few days off and said he was pushing for staffing. I took three days off. I came back and we were down a person because a teammate had resigned. Things got worse.
+
+I'm joining a company where I'll be on an application team, not infrastructure. I'm taking a slight pay cut. It's worth it.
+
+What would have kept me: 24-month commitment to grow the team to at least 6 primary on-call rotations (i.e., 1 week every 6), and a temporary reduction in project commitments until we got there. Neither was offered.
+
+I want to flag the youngest engineers on this team specifically because we don't have the political capital to push back. When my manager schedules me for an extra on-call week to cover someone's vacation, I say yes. I wish I hadn't.
+
+Good luck to the remaining folks on the team. I mean that.

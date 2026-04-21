@@ -1,0 +1,24 @@
+Exit Interview — Meridian Technologies
+Interview ID: EXIT-0030
+Date: February 2025
+Function: Engineering
+Role: Software Engineer III
+Location: Austin
+Tenure: 2 years 0 months
+Departure type: Voluntary
+
+Notes:
+
+Main reason: I realized my peers are being paid more than I am.
+
+Context: we had an all-hands where leadership talked about how comp is "equitable" and I took that claim seriously enough to go check. I work closely with three other SWE IIIs on my team. Through casual conversations — nothing weird, just the kind of thing you end up talking about at 11pm before a launch — I learned they are all paid between $8K and $14K more than I am on base. One of them joined six months after I did.
+
+I brought this up with my manager and he said my starting offer was lower because I accepted without negotiating and subsequent raises are percentage-based, so the gap compounds. That is technically true. It's also a policy choice. You could fix it if you wanted to. You don't want to.
+
+So the options I had were: (a) swallow it and keep compounding at a lower base for my entire career at Meridian, or (b) leave, negotiate a real offer somewhere else, and reset. I picked (b).
+
+I want to say that I don't think my manager did anything wrong. He was transparent with me once I asked. The problem is systemic. If you hire engineers who negotiate aggressively, they do better over time than engineers who take the initial offer in good faith. The "good faith" engineers end up subsidizing everyone else.
+
+I am going to a smaller company for $23K more. In a year if the startup goes well I'll make the equity back. In a year if it doesn't I will be where I would have been in three years at Meridian. Either way this is the right move.
+
+Worth your time to look at the starting-offer distribution across engineers at the same level and hire year.
